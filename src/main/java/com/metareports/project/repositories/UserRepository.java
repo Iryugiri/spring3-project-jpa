@@ -6,5 +6,4 @@ import com.metareports.project.entity.User;
 
 public interface UserRepository extends JpaRepository<User, Long>{
 	
-
 }
